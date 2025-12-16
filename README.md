@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💻 SYSTEM PROFILE
+## 🧑‍💻 PROFILE
 
 ```bash
 > USER        : Harish G B
