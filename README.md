@@ -7,8 +7,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Harish%20G%20B&fontAlign=50&fontAlignY=40&color=0:000000,50:0f2027,100:00ffcc&fontColor=00ffcc&animation=twinkling&desc=Full%20Stack%20Web%20Developer%20|%20Problem%20Solver&descAlign=50&descAlignY=65"/>
 </p>
 
+<a href="https://app.daily.dev/harishgb"><img src="https://api.daily.dev/devcards/v2/XD13nkrdFjAZujYNpxkp4.png?type=default&r=o2q" width="356" alt="Harish's Dev Card"/></a>
 ---
-
 ## 🧑‍💻 PROFILE
 
 ```bash
