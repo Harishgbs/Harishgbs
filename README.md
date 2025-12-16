@@ -1,16 +1,72 @@
-## Hi there 👋
 
-<!--
-**Harishgbs/Harishgbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ===================================================== -->
+<!-- 🚀 CYBERPUNK TECH DEVELOPER PROFILE - HARISH G B 🚀 -->
+<!-- ===================================================== -->
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Harish%20G%20B&fontAlign=50&fontAlignY=40&color=0:000000,50:0f2027,100:00ffcc&fontColor=00ffcc&animation=twinkling&desc=Full%20Stack%20Web%20Developer%20|%20Problem%20Solver&descAlign=50&descAlignY=65"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 SYSTEM PROFILE
+
+```bash
+> USER        : Harish G B
+> ROLE        : Full Stack / Web Developer
+> STACK       : MERN | DSA | APIs
+> MODE        : Modern Web Development
+> STATUS      : Building. Learning. Improving.
+```
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,c,git,github,figma&theme=dark" /> </p>
+
+----------
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=Building+Web+Applications;Solving+Problems+with+Code;Learning+Every+Day;Writing+Clean+and+Scalable+Code" /> </p>
+
+----------
+
+## 🧩 PROJECTS
+
+<p align="center"> <a href="https://github.com/Harishgbs/Dyn-Clg-website"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harishgbs&repo=Dyn-Clg-website&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/Harishgbs/getfitGFM"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harishgbs&repo=getfitGFM&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/Harishgbs/scmxpert"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harishgbs&repo=scmxpert&theme=tokyonight&hide_border=true"/> </a> </p>
+
+----------
+
+## 📈 ACTIVITY OVERVIEW
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harishgbs&theme=react-dark&hide_border=true&area=true&color=00ffcc&line=00ffcc&point=ffffff"/> </p>
+
+----------
+
+## 📊 GITHUB STATS
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Harishgbs&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Harishgbs&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishgbs&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+----------
+
+## 🧠 LEETCODE
+
+<p align="center"> <img src="https://leetcard.jacoblin.cool/hopeishard?theme=dark&font=Fira%20Code&ext=contest" /> </p>
+
+----------
+
+## 🐍 CONTRIBUTIONS
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
+
+----------
+
+## 🌐 CONNECT WITH ME
+
+<p align="center"> <a href="https://www.linkedin.com/in/harishdevs/"> <img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black"/> </a> <a href="mailto:harishgb3805@gmail.com"> <img src="https://img.shields.io/badge/Gmail-00ffcc?style=for-the-badge&logo=gmail&logoColor=black"/> </a> <a href="https://harish-dev-portfolio.web.app/"> <img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=vercel&logoColor=black"/> </a> </p>
+
+----------
+
+## 📌 CORE VALUES
+
+`+ Learn consistently  + Build useful solutions  + Write clean code  + Improve step by step` 
+
+----------
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:000000,100:00ffcc&section=footer&text=Thanks+for+visiting&fontColor=00ffcc"/> </p> ```
