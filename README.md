@@ -69,4 +69,4 @@
 
 ----------
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:000000,50:0f2027,100:00ffcc&fontColor=00ffcc&section=footer&text=Thanks+for+visiting&fontColor=00ffcc"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:000000,50:0f2027,100:00ffcc&fontColor=00ffcc&section=footer&text=Thanks+for+visiting&fontColor=ffffff"/> </p> ```
