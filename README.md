@@ -29,7 +29,7 @@
 
 ## 🧩 PROJECTS
 
-<p align="center"> <a href="https://github.com/Harishgbs/Dyn-Clg-website"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harishgbs&repo=Dyn-Clg-website&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/Harishgbs/getfitGFM"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harishgbs&repo=getfitGFM&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/Harishgbs/scmxpert"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harishgbs&repo=scmxpert&theme=tokyonight&hide_border=true"/> </a> </p>
+<p align="center"> <a href="https://github.com/Harishgbs/Dyn-Clg-website"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harishgbs&repo=Dyn-Clg-website&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/Harishgbs/getfitGFM"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harishgbs&repo=getfitGFM&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/Harishgbs/scmxpert"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harishgbs&repo=scmxpert&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/Harishgbs/pqp-hub"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harishgbs&repo=pqp-hub&theme=tokyonight&hide_border=true"/> </a></p>
 
 ----------
 
